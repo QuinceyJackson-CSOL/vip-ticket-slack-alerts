@@ -1,0 +1,1 @@
+{"text": ":rotating_light: *VIP ticket #{{ticket.id}}* from {{ticket.requester.name}}\n>{{ticket.subject}}\n<{{ticket.url}}|Open in Freshservice>"}

@@ -1,0 +1,8 @@
+# Never commit secrets
+.env
+*.secret
+*webhook-url*
+secrets/
+
+# Mac
+.DS_Store
